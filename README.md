@@ -4,8 +4,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=c&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=c++&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=c#&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
 
 ## 🖥️ Frameworks:
 
