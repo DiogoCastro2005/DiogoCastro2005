@@ -2,7 +2,7 @@
 
 ## 💻 Programming Lenguajes:
 
-[![My Skills](https://skillicons.dev/icons?i=java=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java=dark)]
 
 ## 🖥️ Frameworks:
 
