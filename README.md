@@ -6,6 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cs&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 
 ## Repository statistics
 
